@@ -17,4 +17,8 @@ washington.csv
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+
+https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git
+
+https://sethrobertson.github.io/GitBestPractices/
