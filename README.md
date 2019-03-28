@@ -7,7 +7,7 @@ Bikeshare Data Analysis
 ### Description
 Chicago, New York City, and Washington D.C. house bikeshare programs for its residents to travel without the need for cars and other potentially expensive transportation.
 This project studies different aspects of each cities biking habits: travel durations, user types, and starting and ending locations.
-This data provides insights into common starting hours and demographics, among other data points.
+The goal is to provide insights into common starting hours and demographics, among other data points.
 
 ### Files used
 bikesharecode.py
