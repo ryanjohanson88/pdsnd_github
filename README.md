@@ -11,9 +11,6 @@ The goal is to provide insights into common starting hours and demographics, amo
 
 ### Files used
 bikesharecode.py
-chicago.csv
-new_york_city.csv
-washington.csv
 
 
 ### Credits
