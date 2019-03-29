@@ -10,11 +10,18 @@ This project studies different aspects of each cities biking habits: travel dura
 The goal is to provide insights into common starting hours and demographics, among other data points.
 
 ### Files used
+<<<<<<< HEAD
 bikesharecode.py
 chicago.csv
 new_york_city.csv
 washington.csv
 
+||||||| merged common ancestors
+Include the files used
+=======
+bikesharecode.py
+
+>>>>>>> e4772f8f61ffa2728cd6154c0f2fe29e84ccfade
 
 ### Credits
 https://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
